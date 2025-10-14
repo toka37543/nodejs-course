@@ -1,0 +1,11 @@
+{
+  "name": "toqa-api",
+  "version": "1.0.0",
+  "description": "Toqa 1st Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toqa",
+  "license": "ISC"
+}
